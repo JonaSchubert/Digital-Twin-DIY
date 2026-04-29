@@ -1,4 +1,6 @@
 Digital Twin Workshop (Cesium)
+
+
 Overview
 This repository supports a hands‑on workshop that helps students build their very own digital twin in Cesium — without needing to know a single line of code.
 Using prompt engineering with large language models (LLMs) and Cesium Sandcastle, students learn how to create, extend, and reason about a functioning digital twin in a modular, scalable way.
