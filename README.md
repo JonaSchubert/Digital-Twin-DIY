@@ -15,6 +15,7 @@ Real‑world sustainability metrics such as energy and carbon
 
 
 Learning Goals
+
 This workshop is designed to help students:
 
 Understand what a digital twin actually is (beyond just a static 3D model)
